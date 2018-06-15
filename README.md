@@ -1,7 +1,7 @@
 # Gist Answer
 Welcome to Elastos Developers Community!
 
-This repo is for Elastos Developers Community members. We can disucss issues related to community events, technical training material, ideas and comments. 
+This repo is for Elastos Developers Community members. We can discuss issues related to community events, technical training material, ideas and comments. 
 
 Everyone is welcome to raise issue for new ideas. 
 
@@ -15,7 +15,7 @@ Elastos Sidechain WP V0.3: http://elanews.net/wp-content/uploads/2018/05/Elastos
 
 **Ask general questions to Kevin Zhang:**
 
-The best way to raise your question is using Github. Go to https://github.com/elastos/Elastos and raise any general questions, assign to Kevin Zhang. His github ID is kevingzhang. Or, if you have specific questions related to any specific components or projects, please go to that project repository and rasie issues there. For example, if you want to know how the Elastos Carrier works on Nodejs, please go to https://github.com/elastos/Elastos.NET.Carrier.Nodejs.SDK and raise an issue there. Do not forget to assign the issue to Kevin Zhang.
+The best way to raise your question is using Github. Go to https://github.com/elastos/Elastos and raise any general questions, assign to Kevin Zhang. His github ID is kevingzhang. Or, if you have specific questions related to any specific components or projects, please go to that project repository and raise issues there. For example, if you want to know how the Elastos Carrier works on Nodejs, please go to https://github.com/elastos/Elastos.NET.Carrier.Nodejs.SDK and raise an issue there. Do not forget to assign the issue to Kevin Zhang.
 
 **Guides:**
 * Beginner's Guide: https://www.reddit.com/r/Elastos/comments/7xihw9/elastos_a_beginners_guide/  
